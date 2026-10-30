@@ -1,0 +1,8 @@
+# Publish only the frontend experience; Python backend runs separately.
+exclude:
+  - server
+  - tools
+  - docs
+  - README.md
+  - start.command
+  - 启动承艺-Windows.bat
